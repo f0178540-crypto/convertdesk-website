@@ -1,0 +1,8 @@
+ConvertDesk Windows installer is not available yet.
+
+The official public setup file will be uploaded here after final release testing.
+
+Product: ConvertDesk
+Publisher: AppLab
+Platform: Windows
+Status: Coming soon
