@@ -25,6 +25,7 @@ body {
   align-items: center;
   padding: 24px 7%;
   border-bottom: 1px solid var(--line);
+  background: #ffffff;
 }
 
 .brand {
@@ -145,6 +146,12 @@ h1 {
   margin: 0 0 24px;
 }
 
+.section p {
+  color: var(--muted);
+  line-height: 1.6;
+  max-width: 900px;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -189,6 +196,19 @@ h1 {
 
 .featured {
   border-color: var(--blue);
+}
+
+.faq-card {
+  margin-bottom: 14px;
+  max-width: 900px;
+}
+
+.faq-card h3 {
+  margin-bottom: 8px;
+}
+
+.faq-card p {
+  margin-bottom: 0;
 }
 
 footer {
