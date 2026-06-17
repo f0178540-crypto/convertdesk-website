@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://f0178540-crypto.github.io/convertdesk-website/sitemap.xml
