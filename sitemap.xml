@@ -17,6 +17,16 @@
   </url>
 
   <url>
+    <loc>https://f0178540-crypto.github.io/convertdesk-website/roadmap.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://f0178540-crypto.github.io/convertdesk-website/changelog.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://f0178540-crypto.github.io/convertdesk-website/support.html</loc>
     <priority>0.8</priority>
   </url>

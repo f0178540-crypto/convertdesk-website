@@ -37,14 +37,18 @@ Completed:
 - Download page created
 - Pricing page created
 - Support page created
+- Changelog page created
+- Roadmap page created
 - Privacy Policy upgraded
 - Terms of Use upgraded
 - Refund Policy upgraded
 - Download placeholder created
 - Release checklist created
 - Payment processor preparation document created
+- Domain and payment setup plan created
 - Sitemap created
 - Robots file created
+- Website backup snapshot created
 
 Pending:
 
@@ -68,6 +72,8 @@ Main pages:
 - `download.html` — Download page
 - `pricing.html` — Pricing page
 - `support.html` — Support page
+- `changelog.html` — Product changelog
+- `roadmap.html` — Product roadmap
 - `privacy.html` — Privacy Policy
 - `terms.html` — Terms of Use
 - `refund.html` — Refund Policy
@@ -85,6 +91,7 @@ Documentation:
 
 - `docs/RELEASE_CHECKLIST.md`
 - `docs/PAYMENT_PROCESSOR_DATA.md`
+- `docs/DOMAIN_AND_PAYMENT_SETUP_PLAN.md`
 
 ---
 
