@@ -1,0 +1,9 @@
+SHA256 hash of dist\ConvertDesk.exe:
+b827776a37666657ad0e2d38b9504b2e8d893614d089e58d0f6aa02b030dc6f6
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of release\ConvertDesk_1.0.0_portable_20260618_0011.zip:
+952bc679deeb48edffed65d505f5f89978b4fe6a1fa70833fbb81b410c33411c
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of release\installer\ConvertDeskSetup_1.0.0.exe:
+eec4080bda1a865db7950882aa53e7a7b4839e1f761735f02fe50d2fc87eef5e
+CertUtil: -hashfile command completed successfully.
