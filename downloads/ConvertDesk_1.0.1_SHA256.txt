@@ -1,0 +1,16 @@
+ConvertDesk 1.0.1 SHA256
+
+EXE:
+SHA256 hash of D:\AFC\AFC_2026_REFACTOR\dist\ConvertDesk.exe:
+ff8e5c661fe4fbe210e7be334a98399860c8301b02cfc16e52602ca2a2441b33
+CertUtil: -hashfile command completed successfully.
+
+Portable ZIP:
+SHA256 hash of D:\AFC\AFC_2026_REFACTOR\release\ConvertDesk_1.0.1_portable_20260618_1816.zip:
+1cf58e031c671eb92a08fe3f8c6fc8e98297131be2796e0f82b607eccf3dac8d
+CertUtil: -hashfile command completed successfully.
+
+Installer:
+SHA256 hash of D:\AFC\AFC_2026_REFACTOR\release\installer\ConvertDeskSetup_1.0.1.exe:
+8ea4575180ebedf7a8ca6dc777caa52932453f645eeec7fdb757b816d4668f56
+CertUtil: -hashfile command completed successfully.
